@@ -1,1 +1,1 @@
-var playlist = {'Elvis': 'Love Me Tender'};
+var playlist = {Elvis: 'Love Me Tender'};
