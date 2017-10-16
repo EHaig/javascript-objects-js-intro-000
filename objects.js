@@ -1,4 +1,4 @@
 var playlist = {Elvis: 'Love Me Tender'};
 function updatePlaylist ({playlist}, 'artist', 'song') {
-playlist.
+//add key-value artist: song to the playlist object
 }
